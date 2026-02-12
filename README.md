@@ -13,6 +13,7 @@ Our application prioritizes user privacy above all else.
 * **Personal Data:** The Application does not collect, record, or share any personal data from users, such as name, email, location, phone number, or device ID.
 * **No Accounts or Servers:** The Application does not have a membership system or an external server (backend) where data is stored. All operations (adding to favorites, filtering, etc.) take place locally on the user's own device (local storage). This data is lost when the Application is uninstalled.
 * **Ads:** No advertisements are displayed within the Application at this time, and no tracking codes (trackers) are used for advertising purposes.
+* **User Support & Feedback:** If you choose to contact us via email for support or feedback, we will only use the information you provide (such as your email address and device model) to respond to your request and resolve technical issues. We do not use this information for marketing purposes or share it with third parties.
 
 ---
 
