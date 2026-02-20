@@ -1,9 +1,9 @@
 # Privacy Policy and Terms of Use
 
-**Last Updated:** February 12, 2026
+**Last Updated:** February 20, 2026
 
 ## 1. Introduction and Scope
-This Privacy Policy outlines the terms of use and data security practices for **Movie Album** ("the Application"), provided by ProbSoftware. The Application is an interface service that provides movie/TV show recommendations and displays streaming availability (Watch Providers).
+This Privacy Policy outlines the terms of use and data security practices for **Movie Album** ("the Application"), provided by Prob Software. The Application is an interface service that provides movie/TV show recommendations and displays streaming availability (Watch Providers).
 
 ---
 
