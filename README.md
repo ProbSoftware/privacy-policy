@@ -1,50 +1,41 @@
 # Privacy Policy and Terms of Use
 
-**Last Updated:** February 20, 2026
+**Last Updated:** April 23, 2026
 
 ## 1. Introduction and Scope
-This Privacy Policy outlines the terms of use and data security practices for **Movie Album** ("the Application"), provided by Prob Software. The Application is an interface service that provides movie/TV show recommendations and displays streaming availability (Watch Providers).
+This Privacy Policy outlines the terms of use and data security practices for **Movie Album** ("the Application"), provided by Prob Software. The Application is an interface service that provides movie/TV show recommendations, tracking, and streaming availability.
 
----
+## 2. Data Collection, Storage, and Privacy
+Our application prioritizes user privacy. We do not maintain any external servers to store your personal data.
 
-## 2. Data Collection and Privacy (No Server-Side)
-Our application prioritizes user privacy above all else.
+* **Local Storage & Data Export:** All user operations (adding to favorites, watched lists, custom filters) are processed and stored locally on your device. To prevent data loss, the Application provides a feature to export your data as a JSON file. This file can be saved to your device's local 'Downloads' folder or shared via third-party apps (e.g., WhatsApp). This export process is entirely manual and initiated by the user.
+* **Personal Data:** We do not collect, record, or share identifiable personal data such as your name, email, phone number, or exact location.
+* **User Support & Feedback:** If you use the in-app "Feedback" button, the Application generates a draft email using your default email client. To assist with troubleshooting, the Application automatically appends your device model and app version to the draft. **You have full control to review, edit, or delete this information before sending the email.** We only use this information to resolve technical issues and do not share it with third parties.
 
-* **Personal Data:** The Application does not collect, record, or share any personal data from users, such as name, email, location, phone number, or device ID.
-* **No Accounts or Servers:** The Application does not have a membership system or an external server (backend) where data is stored. All operations (adding to favorites, filtering, etc.) take place locally on the user's own device (local storage). This data is lost when the Application is uninstalled.
-* **Ads:** No advertisements are displayed within the Application at this time, and no tracking codes (trackers) are used for advertising purposes.
-* **User Support & Feedback:** If you choose to contact us via email for support or feedback, we will only use the information you provide (such as your email address and device model) to respond to your request and resolve technical issues. We do not use this information for marketing purposes or share it with third parties.
+## 3. Advertising and Analytics
+To support the development of the Application, we display advertisements.
 
----
+* **Third-Party Ad Networks:** We use Google AdMob to display ads. AdMob may collect and use your device's Advertising ID and generalized location data to serve relevant advertisements. We do not link your Advertising ID to your identity.
+* For more information on how Google uses data for advertising, please refer to [Google's Privacy & Terms](https://policies.google.com/technologies/ads).
 
-## 3. Content and API Usage (Disclaimer)
-The Application uses public third-party API services to provide content.
+## 4. Content Filtering and APIs (Disclaimer)
+The Application uses public third-party API services to provide content. We take extreme measures to ensure a safe browsing experience.
 
-* **Data Source:** Movie information, images (posters/backdrops), and metadata are provided by **The Movie Database (TMDB)**. Streaming platform information is based on **JustWatch** data via TMDB.
-* **Automatic Content Warning:** All images and texts displayed are pulled automatically via API. The developer has no manual or real-time control over this content (e.g., movie posters, summaries).
-* **Age Rating and Sensitive Content:** * **Adult Content (+18) is strictly DISABLED** by default within the application infrastructure.
-    * However, original posters or metadata for movies in genres such as "Romance", "Horror", "Thriller", or "Drama" may still contain mild sexuality, horror elements, or mature themes provided by the third-party API.
-    * Due to these potential external data variations, the application is rated for users **12 years and older (12+)**. Parental guidance is recommended.
-* **User Agreement:** The user acknowledges that the Application is not a "Content Creator" but merely an "Interface Provider" displaying third-party data.
+* **Advanced Content Filtering:** We employ a custom, highly strict filtering algorithm (utilizing keyword restrictions, minimum rating thresholds, and release date validations) to block adult (+18), pornographic, and inappropriate content. This proprietary system provides an estimated 99% success rate in maintaining a safe environment.
+* **User Control & Variations:** Users have the ability to toggle these filters within the Application settings. While our filters block almost all inappropriate content by default, the original posters or metadata provided by third-party APIs for standard genres (e.g., Romance, Thriller) may occasionally contain mature themes. Therefore, parental guidance is recommended for younger users.
+* **Data Sources:** Movie information, images, and metadata are provided by **The Movie Database (TMDB)**. Streaming platform information is provided by **JustWatch** via TMDB.
+* *This product uses the TMDB API but is not endorsed or certified by TMDB.*
 
----
+## 5. Copyrights and Trademarks
+All movie titles, images, and company logos mentioned in the Application are the property of their respective owners. The Application acts merely as an interface to display this publicly available metadata.
 
-## 4. Copyrights and Trademarks
-All movie titles, images, and company logos (Netflix, Disney+, etc.) mentioned in the Application are the property of their respective owners.
+## 6. Changes to This Policy
+Prob Software reserves the right to update this privacy policy. Any changes will be reflected on this page with an updated revision date.
 
-*This product uses the TMDB API but is not endorsed or certified by TMDB.*
-
----
-
-## 5. Changes
-The developer reserves the right to update this privacy policy and terms of use. If there is a change in the application's data collection practices (e.g., adding advertisements in the future), this page will be updated accordingly.
-
----
-
-## 6. Contact
-For any questions regarding application content, copyright notices, or to report inappropriate images, please contact us at:
+## 7. Contact
+For any questions regarding data privacy, application content, or copyright notices, please contact us at:
 
 **Email:** probsoftware.official@gmail.com
 
 ---
-*© 2026 Prob Software. All rights reserved.*
+&copy; 2026 Prob Software. All rights reserved.
